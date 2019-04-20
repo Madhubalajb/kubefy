@@ -6,7 +6,7 @@
 - CSS3
 - Bootstrap
 
-## Tools used
+## Tool used
 - Adobe Photoshop
 
 
